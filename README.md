@@ -1,7 +1,3 @@
-# Hypertube Backend API
-
-Video streaming web uygulaması için NestJS backend API.
-
 ## 🚀 Kurulum
 
 ### 1. API Keys Alın
