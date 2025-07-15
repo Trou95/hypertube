@@ -1,6 +1,6 @@
 ## 🚀 Kurulum
 
-### 1. API Keys Alın
+### 1. API Keys
 ```bash
 # TMDB API Key:
 # 1. https://www.themoviedb.org/ adresine git
